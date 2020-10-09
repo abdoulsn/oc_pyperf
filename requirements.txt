@@ -1,5 +1,24 @@
+# pip freeze > requirements.txt and pip install -r requirements.txt
 pandas
 matplotlib
 numpy
 seaborn
 lxml
+appdirs
+astroid
+cycler
+isort
+lazy-object-proxy
+matplotlib
+mccabe
+numpy
+packaging
+pandas
+pylint
+pyparsing
+python-dateutil
+pytz
+scipy
+seaborn
+six
+wrapt
