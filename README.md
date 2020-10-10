@@ -1,3 +1,3 @@
 Source data: 
 - https://www.nosdeputes.fr/deputes/enmandat/csv
-- https://data.assemblee-nationale.fr/travaux-parlementaires/debats
+- http://data.assemblee-nationale.fr/travaux-parlementaires/debats
