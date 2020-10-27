@@ -4,7 +4,7 @@ __pycache__/
 *$py.class
 
 # Data files
-xml/
+data_in/
 oc/
 # C extensions
 *.so
