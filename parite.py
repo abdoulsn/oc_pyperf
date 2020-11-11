@@ -1,10 +1,12 @@
-# ! /usr/bin/env python3
+#! /usr/bin/env python3
 # coding: utf-8
-import pandas as pd
 
-def main(a=[]):
-    pass
+import csv_analysis as c_an
+import xml_analysis as x_an
 
+def main():
+    c_an.launch_analysis('current_mps.csv')
+    x_an.launch_analysis('SyceronBrut.xml')
 
 if __name__ == "__main__":
-    print("run by main")
+    main()
