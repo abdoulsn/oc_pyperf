@@ -1,10 +1,10 @@
 # ! /usr/bin/env python3
 # coding: utf-8
+import pandas as pd
 
-
-def main():
+def main(a=[]):
     pass
 
 
 if __name__ == "__main__":
-    print("je suis dans le main")
+    print("run by main")
