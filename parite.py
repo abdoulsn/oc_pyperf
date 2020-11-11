@@ -8,6 +8,7 @@ import analysis.xml as x_an
 def parse_arguments():
     parser = argparse.ArgumentParser()
     parser.add_argument("-e", "--extension", help="""Type de fichier à analyser, csv ou xml?""")
+    parser.add_argument("-d", "--datafile", help="""csv file of the data?""")
     return parser.parse_args()
     
 def main():
